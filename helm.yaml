@@ -1,0 +1,4 @@
+build:
+  uri: https://github.com/ozimakov-rh/jee-container-app
+deploy:
+  env:
